@@ -8,8 +8,8 @@
   <a href="https://github.com/harishkryadav0506-cpu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:harishkryadav0506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harishkryadav0506%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/harishkryadav0506-cpu?tab=followers">
     <img src="https://img.shields.io/github/followers/harishkryadav0506-cpu?style=for-the-badge&label=Followers" alt="Followers"/>
@@ -57,8 +57,10 @@ I enjoy turning AI concepts into **end-to-end systems** that combine intelligent
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
+
+`Python` • `C++` • `SQL`
 
 ### AI / ML
 
@@ -215,18 +217,23 @@ My goal is to move beyond building isolated projects and contribute to **real-wo
 ## Coding & Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -237,7 +244,11 @@ My goal is to move beyond building isolated projects and contribute to **real-wo
 
 <img src="https://github-readme-stats.vercel.app/api?username=harishkryadav0506-cpu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkryadav0506-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=harishkryadav0506-cpu&theme=tokyonight&hide_border=true" />
 
