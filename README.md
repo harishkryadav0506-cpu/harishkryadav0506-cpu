@@ -394,7 +394,7 @@ I am actively interested in:
 
 # 🎯 Current Focus
 
-<pre>
+```yaml
 Learning:
   - LangGraph
   - LangSmith
@@ -421,34 +421,3 @@ Open To:
   - GenAI Opportunities
   - AI Agent Projects
   - Open Source Collaboration
-</pre>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:harishkryadav0506@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harish-yadav-a78401357/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/harishkryadav0506-cpu">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>"Building intelligent systems that turn ideas into real-world impact."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
-</p>
