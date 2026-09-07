@@ -1,220 +1,312 @@
-<div align="center">
-
 # Harish Yadav
 
 ### M.Sc. AI & ML @ IIIT Lucknow | GenAI & Agentic AI | RAG | LangGraph | LLMs
 
-<p>
+<p align="center">
   <a href="https://github.com/harishkryadav0506-cpu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:harishkryadav0506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harishkryadav0506%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/harishkryadav0506-cpu?tab=followers">
-    <img src="https://img.shields.io/github/followers/harishkryadav0506-cpu?style=for-the-badge&label=Followers" alt="Followers"/>
+  <a href="https://www.linkedin.com/in/harish-yadav-a78401357/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=harishkryadav0506-cpu&style=for-the-badge&color=6E40C9" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/harishkryadav0506-cpu?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=harishkryadav0506-cpu&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Generative+AI+%7C+RAG+%7C+AI+Agents;LangGraph+%7C+LLMs+%7C+FastAPI;Building+Production-Oriented+AI+Systems" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+RAG;AI+Agents+%7C+LangGraph+%7C+LangSmith;Building+Production-Ready+AI+Systems" alt="Typing SVG"/>
 </p>
-
-</div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
 I am an **M.Sc. Artificial Intelligence & Machine Learning student at IIIT Lucknow**, focused on building practical and production-oriented AI systems.
 
-My current interests include:
+My primary interests include:
 
 - Generative AI and Large Language Models
 - Retrieval-Augmented Generation (RAG)
 - AI Agents and Agentic AI
-- LangGraph and LangSmith
-- Machine Learning and Deep Learning
-- NLP and Information Retrieval
-- FastAPI and AI application backends
-- MLOps and model deployment
+- LangChain, LangGraph and LangSmith
+- Machine Learning, Deep Learning and NLP
+- Vector Search and Embeddings
+- FastAPI and AI backend development
+- MLOps and production AI systems
+- Open-source AI/ML engineering
 
-I enjoy turning AI concepts into **end-to-end systems** that combine intelligent retrieval, reasoning, APIs, databases, evaluation, and deployment.
+I enjoy transforming AI concepts into **real-world, scalable and deployable applications**.
 
 ### Open To
 
 - AI/ML Internships
 - Generative AI / LLM Engineering Internships
-- AI Agent / RAG projects
-- Open-source contributions
-- Collaborative AI projects
+- RAG & AI Agent Projects
+- Open-Source Contributions
+- AI/ML Research & Engineering Opportunities
+- Collaborative AI Projects
 
 ---
 
-## Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-`Python` • `C++` • `SQL`
-
-### AI / ML
+### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-`Machine Learning` • `Deep Learning` • `NLP` • `Generative AI` • `RAG` • `LLMs`
+### Generative AI
 
-### GenAI & AI Agents
-
-`LangChain` • `LangGraph` • `LangSmith` • `RAG` • `Vector Search` • `Embeddings` • `LLM APIs`
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-6B46C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-6366F1?style=for-the-badge"/>
+</p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,mongodb,redis" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### DevOps & Tooling
+### Cloud / DevOps / Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## AI / ML Expertise
+# 🤖 AI / ML Expertise
 
-| Domain | Focus |
-|---|---|
-| Machine Learning | Supervised & Unsupervised Learning |
-| Deep Learning | CNNs, Optimization, Regularization |
-| NLP | TF-IDF, Word2Vec, Transformers |
-| Generative AI | LLM applications and AI workflows |
-| RAG | Retrieval, embeddings, vector search, hybrid retrieval |
-| AI Agents | LangGraph-based agent workflows |
-| Backend AI | FastAPI-based AI services |
-| MLOps | MLflow, deployment and production workflows |
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning | Advanced | Supervised & Unsupervised Learning, Feature Engineering |
+| Deep Learning | Advanced | CNNs, Optimization, Regularization, PyTorch, TensorFlow |
+| NLP | Advanced | Text Processing, TF-IDF, Word2Vec, Transformers |
+| Generative AI | Advanced | LLMs, Prompt Engineering, Embeddings |
+| RAG | Advanced | Retrieval, Vector Search, Hybrid Retrieval, Context Augmentation |
+| AI Agents | Intermediate | Agentic Workflows, Tool Calling, LangGraph |
+| LLM Engineering | Intermediate | LLM APIs, RAG Pipelines, Evaluation |
+| MLOps | Intermediate | MLflow, Docker, API Deployment |
+| Backend Engineering | Intermediate | FastAPI, REST APIs, PostgreSQL |
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
 <details>
-<summary><strong>🚀 LogiSense — AI-Powered E-commerce & Logistics Resolution Platform</strong></summary>
+<summary><b>1. LogiSense — AI-Powered E-commerce & Logistics Resolution Platform</b></summary>
 
 ### Overview
 
-An AI-powered platform designed to help resolve e-commerce and logistics issues through intelligent analysis, retrieval, and automated resolution workflows.
+An AI-powered platform designed to automate and improve e-commerce and logistics issue resolution using **RAG, AI agents, LLMs and backend automation**.
 
-| Area | Details |
+### Technology Stack
+
+| Component | Technology |
 |---|---|
-| Stack | Python, FastAPI, RAG, LLMs, PostgreSQL, Docker |
-| Architecture | Backend API + AI/RAG workflow + database |
-| Focus | E-commerce & logistics issue resolution |
-| AI | Retrieval-Augmented Generation and intelligent reasoning |
 | Backend | FastAPI |
-| Deployment | Cloud-oriented deployment workflow |
-| Repository | [View Repository](https://github.com/harishkryadav0506-cpu/-logisense) |
+| AI | LLMs, RAG, AI Agents |
+| Agent Framework | LangGraph |
+| Retrieval | Vector Search |
+| Database | PostgreSQL |
+| Cache | Redis |
+| Deployment | Docker / Cloud |
+| API | REST |
 
-### Engineering Focus
+### Key Capabilities
 
-- AI-assisted logistics resolution
-- RAG-based knowledge retrieval
-- Backend API architecture
-- Database-driven workflows
-- Production-oriented deployment
-- Intelligent decision support
+- AI-powered logistics issue resolution
+- Retrieval-Augmented Generation
+- Intelligent document/context retrieval
+- Agentic workflow orchestration
+- FastAPI backend
+- Database-backed order management
+- Production-oriented architecture
+- API health monitoring
+- Scalable backend design
 
-</details>
+### Repository
 
----
-
-<details>
-<summary><strong>🧠 Fake Medicine Detection</strong></summary>
-
-AI/ML project focused on detecting potentially fake medicines using machine learning-oriented analysis.
-
-| Area | Details |
-|---|---|
-| Stack | Python, Jupyter Notebook, Machine Learning |
-| Domain | Healthcare / Pharmaceutical AI |
-| Focus | Fake medicine detection |
-| Repository | [View Repository](https://github.com/harishkryadav0506-cpu/Fake_Medicine_Detection) |
+[View LogiSense Repository](https://github.com/harishkryadav0506-cpu/-logisense)
 
 </details>
 
 ---
 
 <details>
-<summary><strong>📝 Abstractive Text Summarization using Transformers</strong></summary>
+<summary><b>2. Fake Medicine Detection</b></summary>
 
-NLP project exploring transformer-based abstractive text summarization.
+### Overview
 
-| Area | Details |
+An AI-based project focused on detecting potentially fake medicines using packaging information and machine learning techniques.
+
+### Technology Stack
+
+| Component | Technology |
 |---|---|
-| Stack | Python, Jupyter Notebook, Transformers |
-| Domain | Natural Language Processing |
-| Focus | Abstractive text summarization |
-| Repository | [View Repository](https://github.com/harishkryadav0506-cpu/Abstractive-Text-Summarization-using-Transformers-Public) |
+| Language | Python |
+| Machine Learning | Scikit-learn |
+| Data Processing | Pandas |
+| NLP / Text | Text Processing |
+| Visualization | Matplotlib / Seaborn |
+
+### Repository
+
+[View Repository](https://github.com/harishkryadav0506-cpu/Fake_Medicine_Detection)
 
 </details>
 
 ---
 
 <details>
-<summary><strong>📊 Indian Population Project</strong></summary>
+<summary><b>3. Abstractive Text Summarization using Transformers</b></summary>
 
-Machine learning project focused on analysing Indian population-related data.
+### Overview
 
-| Area | Details |
+A transformer-based NLP project for generating concise summaries from long-form text.
+
+### Technology Stack
+
+| Component | Technology |
 |---|---|
-| Stack | Python, Machine Learning |
-| Domain | Data Analysis / Machine Learning |
-| Repository | [View Repository](https://github.com/harishkryadav0506-cpu/Indain_Population_Project) |
+| Language | Python |
+| NLP | Transformers |
+| Deep Learning | PyTorch |
+| Text Processing | NLP |
+| Model Architecture | Transformer |
+
+### Repository
+
+[View Repository](https://github.com/harishkryadav0506-cpu/Abstractive-Text-Summarization-using-Transformers-Public)
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🚗 Vehicle Insurance Data Pipeline</strong></summary>
+<summary><b>4. Indian Population Project</b></summary>
 
-Data pipeline project designed for managing and processing vehicle insurance data.
+### Overview
 
-| Area | Details |
+A machine learning/data analysis project focused on analysing Indian population data and extracting useful insights.
+
+### Technology Stack
+
+| Component | Technology |
 |---|---|
-| Stack | Python, Jupyter Notebook |
-| Domain | Data Engineering / ML Pipeline |
-| Focus | Vehicle insurance data processing |
-| Repository | [View Repository](https://github.com/harishkryadav0506-cpu/Vehicle-Insurance-Data-Pipeline) |
+| Language | Python |
+| Data Analysis | Pandas |
+| Visualization | Matplotlib |
+| Machine Learning | Scikit-learn |
+
+### Repository
+
+[View Repository](https://github.com/harishkryadav0506-cpu/Indain_Population_Project)
 
 </details>
 
 ---
 
-## Open Source & Engineering
+<details>
+<summary><b>5. Vehicle Insurance Data Pipeline</b></summary>
 
-I am actively interested in contributing to open-source projects related to:
+### Overview
 
-- Generative AI
+A data engineering and machine learning-oriented project focused on processing vehicle insurance data through a structured pipeline.
+
+### Technology Stack
+
+| Component | Technology |
+|---|---|
+| Language | Python |
+| Data Processing | Pandas |
+| Database | MongoDB |
+| ML | Scikit-learn |
+| Backend | Flask / FastAPI |
+
+### Repository
+
+[View Repository](https://github.com/harishkryadav0506-cpu/Vehicle-Insurance-Data-Pipeline)
+
+</details>
+
+---
+
+# 🌐 Open Source & Engineering
+
+I am actively interested in:
+
+- Open-source AI/ML projects
 - RAG systems
-- AI Agents
-- Machine Learning
-- Python
-- Developer tooling
-- AI evaluation
-
-My goal is to move beyond building isolated projects and contribute to **real-world engineering ecosystems**.
+- AI Agent frameworks
+- LLM applications
+- Backend engineering
+- MLOps
+- Production AI systems
+- Collaborative software development
 
 ---
 
-## Coding & Problem Solving
+# 🏆 Achievements
+
+| Recognition | Details |
+|---|---|
+| AI/ML Projects | Built multiple practical AI/ML applications |
+| Generative AI | Developed RAG and LLM-based systems |
+| AI Agents | Working with LangGraph and agentic workflows |
+| Open Source | Exploring and contributing to open-source projects |
+| Engineering | Building production-oriented AI applications |
+
+---
+
+# 📜 Certifications
+
+### Oracle
+
+- Oracle Course Completed
+
+### AWS
+
+- AWS Learning / Certification Track
+
+### NPTEL
+
+- NPTEL Learning & Certification Track
+
+### Cisco
+
+- Cisco Learning & Certification Track
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
 
@@ -238,79 +330,80 @@ My goal is to move beyond building isolated projects and contribute to **real-wo
 
 ---
 
-## GitHub Analytics
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishkryadav0506-cpu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=harishkryadav0506-cpu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkryadav0506-cpu&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkryadav0506-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/>
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=harishkryadav0506-cpu&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkryadav0506-cpu&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harishkryadav0506-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
+</p>
 
 ---
 
-## Contribution Activity
+# 🏅 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkryadav0506-cpu&theme=tokyo-night&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=harishkryadav0506-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/harishkryadav0506-cpu/harishkryadav0506-cpu/output/github-contribution-grid-snake.svg" />
-
-</div>
+</p>
 
 ---
 
-## Current Focus
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkryadav0506-cpu&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/harishkryadav0506-cpu/harishkryadav0506-cpu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
 Learning:
   - LangGraph
   - LangSmith
   - Advanced RAG
+  - Agentic AI
   - LLM Engineering
-  - AI Agents
+  - MLOps
 
 Building:
-  - Production-oriented AI applications
-  - RAG systems
-  - Agentic AI workflows
-  - FastAPI-based AI backends
+  - Production-ready RAG systems
+  - AI Agent applications
+  - LLM-powered backend systems
+  - End-to-end AI products
 
 Exploring:
+  - Multi-Agent Systems
   - Hybrid Retrieval
-  - Vector Databases
   - LLM Evaluation
-  - MLOps
-  - Open Source
+  - AI Observability
+  - Production AI Architecture
 
 Open To:
   - AI/ML Internships
   - GenAI Opportunities
+  - AI Agent Projects
   - Open Source Collaboration
-  - AI Engineering Projects
