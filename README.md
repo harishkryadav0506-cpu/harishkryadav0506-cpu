@@ -1,28 +1,32 @@
-# Harish Yadav
-
-### M.Sc. AI & ML @ IIIT Lucknow | GenAI & Agentic AI | RAG | LangGraph | LLMs
-
 <p align="center">
-  <a href="https://github.com/harishkryadav0506-cpu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:harishkryadav0506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harish-yadav-a78401357/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/harishkryadav0506-cpu?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=harishkryadav0506-cpu&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=180&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&height=70&lines=Harish+Yadav" alt="Harish Yadav"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+RAG;AI+Agents+%7C+LangGraph+%7C+LangSmith;Building+Production-Ready+AI+Systems" alt="Typing SVG"/>
+  <b>M.Sc. AI & ML @ IIIT Lucknow | GenAI & Agentic AI | RAG | LangGraph | LLMs</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harishkryadav0506-cpu">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:harishkryadav0506@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harish-yadav-a78401357/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/harishkryadav0506-cpu?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=harishkryadav0506-cpu&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=45&lines=Generative+AI+%7C+LLM;RAG+%7C+LangGraph;AI+Agents+%7C+LangSmith;Building+Production-Ready+AI+Systems" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I am an **M.Sc. Artificial Intelligence & Machine Learning student at IIIT Lucknow**, focused on building practical and production-oriented AI systems.
 
@@ -56,48 +60,48 @@ I enjoy transforming AI concepts into **real-world, scalable and deployable appl
 ### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### Generative AI
 
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangSmith-6B46C1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangSmith-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-6366F1?style=for-the-badge"/>
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### Cloud / DevOps / Tools
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -154,7 +158,9 @@ An AI-powered platform designed to automate and improve e-commerce and logistics
 
 ### Repository
 
-[View LogiSense Repository](https://github.com/harishkryadav0506-cpu/-logisense)
+<a href="https://github.com/harishkryadav0506-cpu/-logisense">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
@@ -179,7 +185,9 @@ An AI-based project focused on detecting potentially fake medicines using packag
 
 ### Repository
 
-[View Repository](https://github.com/harishkryadav0506-cpu/Fake_Medicine_Detection)
+<a href="https://github.com/harishkryadav0506-cpu/Fake_Medicine_Detection">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
@@ -204,7 +212,9 @@ A transformer-based NLP project for generating concise summaries from long-form 
 
 ### Repository
 
-[View Repository](https://github.com/harishkryadav0506-cpu/Abstractive-Text-Summarization-using-Transformers-Public)
+<a href="https://github.com/harishkryadav0506-cpu/Abstractive-Text-Summarization-using-Transformers-Public">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
@@ -215,7 +225,7 @@ A transformer-based NLP project for generating concise summaries from long-form 
 
 ### Overview
 
-A machine learning/data analysis project focused on analysing Indian population data and extracting useful insights.
+A machine learning and data analysis project focused on analysing Indian population data and extracting useful insights.
 
 ### Technology Stack
 
@@ -228,7 +238,9 @@ A machine learning/data analysis project focused on analysing Indian population 
 
 ### Repository
 
-[View Repository](https://github.com/harishkryadav0506-cpu/Indain_Population_Project)
+<a href="https://github.com/harishkryadav0506-cpu/Indain_Population_Project">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
@@ -253,7 +265,9 @@ A data engineering and machine learning-oriented project focused on processing v
 
 ### Repository
 
-[View Repository](https://github.com/harishkryadav0506-cpu/Vehicle-Insurance-Data-Pipeline)
+<a href="https://github.com/harishkryadav0506-cpu/Vehicle-Insurance-Data-Pipeline">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
@@ -311,19 +325,19 @@ I am actively interested in:
 <p align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
