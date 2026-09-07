@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harish%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20GenAI%20%7C%20RAG&descAlignY=55&descSize=18)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;LLM+Fine-Tuning+%7C+RAG+Pipelines;M.Sc.+AI+%26+ML+%40+IIIT+Lucknow;Turning+Ideas+Into+Production+ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Generative+AI+%7C+LLM+Engineering;RAG+%7C+LangGraph+%7C+AI+Agents;M.Sc.+AI+%26+ML+%40+IIIT+Lucknow;Building+Production-Ready+AI+Systems" alt="Typing SVG" /></a>
 
 ![IIIT Lucknow](https://img.shields.io/badge/M.Sc.%20AI%20%26%20ML-IIIT%20Lucknow-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Lucknow%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -10,11 +10,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-yadav-a78401357/)
 [![Gmail](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishkryadav0506@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishkryadav0506)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishkryadav0506-cpu)
 
-![Profile Views](https://komarev.com/ghpvc/?username=harishkryadav0506&color=6a0dad&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/harishkryadav0506?color=6a0dad&style=for-the-badge&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/harishkryadav0506?color=6a0dad&style=for-the-badge&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=harishkryadav0506-cpu&color=6a0dad&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/harishkryadav0506-cpu?color=6a0dad&style=for-the-badge&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/harishkryadav0506-cpu?color=6a0dad&style=for-the-badge&label=STARS)
 
 </div>
 
@@ -22,19 +22,26 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML engineer in the making**, currently pursuing my **M.Sc. in AI & ML at IIIT Lucknow**, backed by a B.Sc. (Hons.) in Mathematics. I build **agentic AI systems** — RAG pipelines, LLM fine-tuning workflows, and multi-agent orchestration — and take them all the way from prototype to a deployed, monitored production service.
+I'm an **M.Sc. Artificial Intelligence & Machine Learning student at IIIT Lucknow**, backed by a B.Sc. (Hons.) in Mathematics, building **practical, production-oriented AI systems**.
 
-- 🔭 Currently building an **Enterprise Multi-Agent Knowledge & Action System** (RAG + LangGraph)
-- 🎓 Working on my capstone: **LogiSense**, an LLM-agent + RAG powered e-commerce resolution copilot
-- 📊 Competing on **Kaggle** (Playground Series) and sharpening DSA fundamentals on the side
-- 🌱 Deep focus on **agentic AI, GenAI, LLM fine-tuning, and RAG pipelines**
+My core focus areas:
+
+- 🤖 Generative AI, Large Language Models & Prompt Engineering
+- 🔍 Retrieval-Augmented Generation (RAG) & Vector Search
+- 🧠 AI Agents & Agentic AI — LangChain, LangGraph, LangSmith
+- 📊 Machine Learning, Deep Learning & NLP
+- ⚙️ FastAPI-based AI backend development
+- 🚀 MLOps & production AI deployment
+
+I enjoy turning AI concepts into **real, scalable, deployable applications** — not just notebooks.
 
 ```yaml
 Open To:
-  - AI Engineer roles
-  - GenAI / LLM Engineering roles
-  - Research collaborations in Agentic AI
-  - Open source contributions
+  - AI/ML Internships
+  - GenAI / LLM Engineering Opportunities
+  - RAG & AI Agent Projects
+  - Open-Source Contributions
+  - Collaborative AI Research
 ```
 
 ---
@@ -43,18 +50,27 @@ Open To:
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=A78BFA)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=A78BFA)
 
-**AI / ML & GenAI**
+**AI / Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=A78BFA)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
+
+**Generative AI**
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=A78BFA)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=A78BFA)
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=flat-square&logo=chainlink&logoColor=A78BFA)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=A78BFA)
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=flat-square&logo=meta&logoColor=A78BFA)
 
 **Backend & Databases**
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=A78BFA)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=A78BFA)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=A78BFA)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=A78BFA)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=A78BFA)
 
 **Cloud, DevOps & Tooling**
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=A78BFA)
@@ -70,22 +86,43 @@ Open To:
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Agentic AI Systems | ⭐⭐⭐⭐ | LangGraph-based multi-agent orchestration with tool/action-taking agents |
-| RAG Pipelines | ⭐⭐⭐⭐ | FAISS + HuggingFace embeddings, retrieval-augmented generation for domain copilots |
-| LLM Integration | ⭐⭐⭐⭐ | Groq API, prompt design, LLM-agent workflows |
-| ML Pipelines & Deployment | ⭐⭐⭐⭐ | End-to-end deployment with CI/CD, containerization, monitoring |
-| Applied ML (Tabular) | ⭐⭐⭐ | Gradient boosting ensembles (LightGBM, XGBoost, CatBoost) for Kaggle competitions |
-| MLOps & Monitoring | ⭐⭐⭐ | Prometheus/Grafana dashboards, custom metrics endpoints |
+| Generative AI / LLMs | ⭐⭐⭐⭐ | Prompt engineering, LLM APIs, embeddings |
+| RAG | ⭐⭐⭐⭐ | Retrieval, vector search, hybrid retrieval, context augmentation |
+| AI Agents | ⭐⭐⭐⭐ | Agentic workflows, tool calling, LangGraph orchestration |
+| Deep Learning | ⭐⭐⭐⭐ | CNNs, optimization, regularization (PyTorch, TensorFlow) |
+| NLP | ⭐⭐⭐⭐ | Text processing, TF-IDF, Word2Vec, Transformers |
+| ML Pipelines & Deployment | ⭐⭐⭐⭐ | CI/CD, containerization, monitoring |
+| MLOps | ⭐⭐⭐ | MLflow, Docker, Prometheus/Grafana dashboards |
+| Backend Engineering | ⭐⭐⭐ | FastAPI, REST APIs, PostgreSQL/MongoDB |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>🛒 LogiSense — AI-Powered E-commerce & Logistics Resolution Platform</b></summary>
+<br>
+
+An AI-powered platform that automates e-commerce and logistics issue resolution using RAG, AI agents, LLMs, and backend automation.
+
+| Aspect | Detail |
+|---|---|
+| Stack | FastAPI, LangGraph, RAG, Vector Search, PostgreSQL, Redis, Docker |
+| Scale | Full-stack, production-oriented architecture |
+| Performance | API health monitoring built in |
+| Security | Containerized, database-backed order management |
+| Impact | Automates logistics issue resolution end-to-end |
+| Repository | [View on GitHub](https://github.com/harishkryadav0506-cpu/-logisense) |
+
+Capstone project — an agentic, RAG-powered copilot taken from concept to a scalable backend architecture.
+
+</details>
+
+<details>
 <summary><b>🤖 Enterprise Multi-Agent Knowledge & Action System</b></summary>
 <br>
 
-RAG-powered multi-agent system that combines knowledge retrieval with real action-taking agents, orchestrated with LangGraph.
+RAG-powered multi-agent system combining knowledge retrieval with real action-taking agents, orchestrated with LangGraph.
 
 | Aspect | Detail |
 |---|---|
@@ -93,67 +130,78 @@ RAG-powered multi-agent system that combines knowledge retrieval with real actio
 | Scale | Multi-agent orchestration pipeline |
 | Performance | In active development |
 | Security | Action-taking agents scoped to defined tools |
-| Impact | Automates knowledge lookup + action execution in one workflow |
+| Impact | Combines knowledge lookup + action execution in one workflow |
 | Repository | *Link coming soon* |
 
-Built to move beyond simple Q&A RAG into agents that can both retrieve knowledge and act on it — a step toward production-grade agentic AI.
+Built to move beyond simple Q&A RAG into agents that can both retrieve knowledge and act on it.
 
 </details>
 
 <details>
-<summary><b>🛒 LogiSense — Intelligent E-commerce Resolution Copilot</b></summary>
+<summary><b>💊 Fake Medicine Detection</b></summary>
 <br>
 
-Capstone project: an LLM-agent and RAG powered copilot that resolves e-commerce customer issues automatically.
+An AI-based system that detects potentially fake medicines using packaging information and machine learning.
 
 | Aspect | Detail |
 |---|---|
-| Stack | LangChain, FAISS, HuggingFace Embeddings, Groq API, FastAPI, Streamlit, MLflow, Docker |
-| Scale | Full-stack capstone system |
-| Performance | Tracked via MLflow experiment logging |
-| Security | Containerized with Docker |
-| Impact | Automates e-commerce issue resolution end-to-end |
-| Repository | *Link coming soon* |
-
-Designed as a complete production-style system — from retrieval to a deployed, containerized UI — for the M.Sc. capstone.
+| Stack | Python, Scikit-learn, Pandas, Text Processing |
+| Scale | ML classification pipeline |
+| Performance | Trained and evaluated on labeled data |
+| Security | N/A |
+| Impact | Helps flag counterfeit medicine packaging |
+| Repository | [View on GitHub](https://github.com/harishkryadav0506-cpu/Fake_Medicine_Detection) |
 
 </details>
 
 <details>
-<summary><b>🚗 Vehicle Insurance ML Pipeline</b></summary>
+<summary><b>📝 Abstractive Text Summarization using Transformers</b></summary>
 <br>
 
-Deployed, monitored ML pipeline predicting vehicle insurance outcomes, with a full CI/CD and observability stack.
+A transformer-based NLP project generating concise summaries from long-form text.
 
 | Aspect | Detail |
 |---|---|
-| Stack | FastAPI, MongoDB Atlas, AWS S3, Docker, GitHub Actions, Prometheus, Grafana |
+| Stack | Python, PyTorch, Transformers, NLP |
+| Scale | Sequence-to-sequence summarization model |
+| Performance | Transformer-based abstractive generation |
+| Security | N/A |
+| Impact | Automates long-document summarization |
+| Repository | [View on GitHub](https://github.com/harishkryadav0506-cpu/Abstractive-Text-Summarization-using-Transformers-Public) |
+
+</details>
+
+<details>
+<summary><b>🚗 Vehicle Insurance Data Pipeline</b></summary>
+<br>
+
+A deployed, monitored ML pipeline predicting vehicle insurance outcomes with a full CI/CD and observability stack.
+
+| Aspect | Detail |
+|---|---|
+| Stack | FastAPI/Flask, MongoDB, AWS S3, Docker, GitHub Actions, Prometheus, Grafana |
 | Scale | Production-deployed on AWS EC2 via ECR |
 | Performance | Strong F1 score |
 | Security | GitHub Actions secrets, containerized deployment |
-| Impact | Fully automated CI/CD from commit to live EC2 deployment |
-| Repository | *Link coming soon* |
-
-Includes custom Prometheus metrics and Grafana dashboards for live monitoring of the deployed model.
+| Impact | Fully automated CI/CD from commit to live deployment |
+| Repository | [View on GitHub](https://github.com/harishkryadav0506-cpu/Vehicle-Insurance-Data-Pipeline) |
 
 </details>
 
 <details>
-<summary><b>📱 Predicting Smartphone Addiction — Kaggle Playground Series S6E8</b></summary>
+<summary><b>🇮🇳 Indian Population Project</b></summary>
 <br>
 
-Binary classification competition predicting smartphone addiction probability, evaluated on ROC-AUC.
+A data analysis and machine learning project extracting insights from Indian population data.
 
 | Aspect | Detail |
 |---|---|
-| Stack | LightGBM, XGBoost, CatBoost (GPU-accelerated) |
-| Scale | Kaggle Playground Series S6E8 |
-| Performance | 0.96364 public leaderboard (3-model blend) |
+| Stack | Python, Pandas, Matplotlib, Scikit-learn |
+| Scale | Exploratory data analysis + ML modeling |
+| Performance | N/A |
 | Security | N/A |
-| Impact | Competing near the top of the public leaderboard |
-| Repository | *Link coming soon* |
-
-A 3-model gradient boosting blend trained on GPU (T4 x2), iterating toward the top leaderboard score.
+| Impact | Derives demographic insights from population data |
+| Repository | [View on GitHub](https://github.com/harishkryadav0506-cpu/Indain_Population_Project) |
 
 </details>
 
@@ -165,13 +213,13 @@ A 3-model gradient boosting blend trained on GPU (T4 x2), iterating toward the t
 *IIIT Lucknow*
 *2026 – Present*
 
-Designing and building an LLM-agent and RAG based resolution copilot for e-commerce customer support.
+Designing and building an LLM-agent and RAG based resolution copilot for e-commerce and logistics support.
 
-- Architected a retrieval-augmented generation pipeline using FAISS and HuggingFace embeddings
-- Integrated Groq API for LLM inference within an agentic workflow
-- Built a FastAPI backend with a Streamlit front end, tracked with MLflow, containerized with Docker
+- Architected a retrieval-augmented generation pipeline with vector search
+- Built agentic workflows for issue resolution using LangGraph
+- Developed a FastAPI backend with PostgreSQL + Redis, containerized with Docker
 
-`LangChain` `RAG` `FastAPI` `Streamlit` `MLflow` `Docker`
+`LangGraph` `RAG` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
 ---
 
@@ -181,9 +229,11 @@ Designing and building an LLM-agent and RAG based resolution copilot for e-comme
 
 | Recognition | Details |
 |---|---|
-| Kaggle Competitor | Playground Series S6E8 — 0.96364 public leaderboard score |
-| Academic | B.Sc. (Hons.) Mathematics |
-| Academic | Pursuing M.Sc. AI & ML, IIIT Lucknow |
+| AI/ML Projects | Built multiple end-to-end AI/ML applications |
+| Generative AI | Developed RAG and LLM-based production systems |
+| AI Agents | Working with LangGraph and agentic workflows |
+| Kaggle | Playground Series S6E8 — 0.96364 public leaderboard score |
+| Academic | B.Sc. (Hons.) Mathematics; pursuing M.Sc. AI & ML, IIIT Lucknow |
 
 </div>
 
@@ -207,10 +257,10 @@ Designing and building an LLM-agent and RAG based resolution copilot for e-comme
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 ---
 
@@ -218,10 +268,10 @@ Designing and building an LLM-agent and RAG based resolution copilot for e-comme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishkryadav0506&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkryadav0506&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=harishkryadav0506-cpu&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkryadav0506-cpu&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkryadav0506&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkryadav0506-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="50%" />
 
 </div>
 
@@ -231,7 +281,7 @@ Designing and building an LLM-agent and RAG based resolution copilot for e-comme
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=harishkryadav0506&theme=algolia&no-frame=true&row=1&column=7&title=Commits,Stars,Followers,PullRequest,Repositories)
+![Trophies](https://github-profile-trophy.vercel.app/?username=harishkryadav0506-cpu&theme=algolia&no-frame=true&row=1&column=7&title=Commits,Stars,Followers,PullRequest,Repositories)
 
 </div>
 
@@ -241,7 +291,7 @@ Designing and building an LLM-agent and RAG based resolution copilot for e-comme
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkryadav0506&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkryadav0506-cpu&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff)
 
 </div>
 
@@ -251,9 +301,11 @@ Designing and building an LLM-agent and RAG based resolution copilot for e-comme
 
 <div align="center">
 
-![Snake animation](https://github.com/harishkryadav0506/harishkryadav0506/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/harishkryadav0506-cpu/harishkryadav0506-cpu/output/github-contribution-grid-snake.svg)
 
 </div>
+
+> ⚡ Snake needs a one-time GitHub Action to generate — see setup note at the end.
 
 ---
 
@@ -261,17 +313,22 @@ Designing and building an LLM-agent and RAG based resolution copilot for e-comme
 
 ```yaml
 Learning:
-  - Advanced LangGraph multi-agent patterns
-  - LLM fine-tuning techniques
+  - LangGraph & LangSmith
+  - Advanced RAG techniques
+  - Agentic AI & multi-agent orchestration
+  - LLM Engineering & Evaluation
+  - MLOps
 Building:
+  - LogiSense — E-commerce & Logistics Resolution Platform
   - Enterprise Multi-Agent Knowledge & Action System
-  - LogiSense — E-commerce Resolution Copilot
 Exploring:
-  - RAG evaluation frameworks
-  - MLOps for LLM-based systems
+  - Multi-Agent Systems
+  - Hybrid Retrieval
+  - AI Observability
 Open To:
-  - AI Engineer / GenAI Engineer roles
-  - Research collaborations
+  - AI/ML Internships
+  - GenAI / LLM Engineering Opportunities
+  - Open Source Collaboration
 ```
 
 ---
@@ -280,7 +337,7 @@ Open To:
 
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishkryadav0506@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-yadav-a78401357/)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishkryadav0506)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishkryadav0506-cpu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
