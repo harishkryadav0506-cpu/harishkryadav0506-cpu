@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=350&pause=1800&color=8A2BE2&center=true&vCenter=true&width=850&height=80&lines=Harish+Yadav" alt="Harish Yadav"/>
+  <img
+    src="https://gradient-svg-generator.vercel.app/api/svg?text=Harish%20Yadav&template=typing-path-reveal&height=95&duration=10s&color0=bf3eff&color1=8b5cf6&color2=3b82f6&color3=00c6ff"
+    alt="Harish Yadav"
+  />
 </p>
 
 <p align="center">
